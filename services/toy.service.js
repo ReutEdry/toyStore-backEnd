@@ -1,6 +1,7 @@
 import fs from 'fs'
 import { utilService } from './util.service.js'
 
+
 const toys = utilService.readJsonFile('data/toy.json')
 const labels = ['Doll', 'Battery Powered', 'Talking', 'Beauty', 'Girls', 'Animal', 'Trip', 'Sport', 'Ride']
 
@@ -8,7 +9,7 @@ export const toyService = {
     query,
     get,
     remove,
-    save
+    save,
 }
 
 function query(filterBy) {
@@ -16,6 +17,8 @@ function query(filterBy) {
     toysToShow = onSetFilter(filterBy, toysToShow)
     return Promise.resolve(toysToShow)
 }
+
+
 
 function onSetFilter(filterBy, toysToShow) {
     const { sortBy, byName, byLable, inStock } = filterBy
