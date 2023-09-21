@@ -12,17 +12,19 @@ export const toyService = {
 }
 
 function query(filterBy) {
-    console.log('from server')
     let toysToShow = toys
     toysToShow = onSetFilter(filterBy, toysToShow)
-    console.log('toysToShow', toysToShow)
     return Promise.resolve(toysToShow)
 }
 
 function onSetFilter(filterBy, toysToShow) {
     const { sortBy, byName, byLable, inStock } = filterBy
     if (sortBy) toysToShow = onSetSortByFilter(sortBy, toysToShow)
-    if (byLable) toysToShow = toysToShow.filter(toy => toy.labels && toy.labels.includes(byLable))
+
+    if (byLable && byLable[0]) {
+        toysToShow = toysToShow.filter(toy => toy.labels.some(label => byLable.includes(label)))
+    }
+
     if (byName) {
         const regExp = new RegExp(byName, 'i')
         toysToShow = toysToShow.filter(toy => regExp.test(toy.name))
@@ -65,14 +67,18 @@ function save(toy) {
         toyToUpdate.price = toy.price
     } else {
         let labelIdx = utilService.getRandomIntInclusive(0, labels.length)
+        console.log('toy', toy)
         toy._id = utilService.makeId()
         toy.createdAt = Date.now()
-        toy.lables = labels[labelIdx]
+        toy.lable = [labels[labelIdx]]
         toy.inStock = true
+        console.log('toy ready', toy)
         toys.push(toy)
     }
 
-    return _saveToysToFile().then(() => toy)
+    return _saveToysToFile().then(() => {
+        return toy
+    })
 }
 
 

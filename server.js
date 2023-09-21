@@ -33,16 +33,7 @@ app.use(express.static('public'))
 
 // List
 app.get('/api/toy', (req, res) => {
-    const { byName,
-        inStock,
-        byLable,
-        sortBy } = req.query
-    const filterBy = {
-        byName,
-        inStock,
-        byLable,
-        sortBy
-    }
+    const filterBy = req.query
     toyService.query(filterBy)
         .then(toys => {
             res.send(toys)
@@ -83,6 +74,7 @@ app.put('/api/toy', (req, res) => {
     }
     toyService.save(toy)
         .then((savedToy) => {
+            console.log('savedToy frpm server', savedToy)
             res.send(savedToy)
         })
         .catch(err => {
@@ -125,7 +117,7 @@ app.get('/**', (req, res) => {
 
 
 // Listen will always be the last line in our server!
-const port = 3030
+const port = process.env.PORT || 3030
 app.listen(port, () => {
     loggerService.info(`Server listening on port http://127.0.0.1:${port}/`)
 })
