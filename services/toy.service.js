@@ -12,8 +12,10 @@ export const toyService = {
 }
 
 function query(filterBy) {
+    console.log('from server')
     let toysToShow = toys
     toysToShow = onSetFilter(filterBy, toysToShow)
+    console.log('toysToShow', toysToShow)
     return Promise.resolve(toysToShow)
 }
 
@@ -50,8 +52,8 @@ function get(toyId) {
 }
 
 function remove(toyId) {
-    const idx = toys.findIndex(toy => { toy._id === toyId })
-    if (idx === -1) return Promise.reject('No Such toy')
+    const idx = toys.findIndex(toy => toy._id === toyId)
+    if (idx === -1) return Promise.reject('No Such Toy')
     toys.splice(idx, 1)
     return _saveToysToFile()
 }

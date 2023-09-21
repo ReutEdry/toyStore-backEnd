@@ -1,31 +1,8 @@
 [
     {
-        "name": "ייי",
-        "price": 34567890,
-        "_id": "pkVMs",
-        "createdAt": 1695248500611,
-        "lables": "Animal",
-        "inStock": true
-    },
-    {
-        "name": "hey",
-        "price": 234,
-        "_id": "d73wS",
-        "createdAt": 1695248333392,
-        "inStock": true
-    },
-    {
-        "name": "hey",
-        "price": 234,
-        "_id": "9aM2g",
-        "createdAt": 1695248297454,
-        "lables": "Talking",
-        "inStock": true
-    },
-    {
         "_id": "t105",
         "name": "Bike",
-        "price": 900,
+        "price": 90,
         "labels": [
             "Trip",
             "Sport",
@@ -47,6 +24,18 @@
         "inStock": true
     },
     {
+        "_id": "t101",
+        "name": "Talking Doll",
+        "price": 123,
+        "labels": [
+            "Doll",
+            "Battery Power",
+            "Talking"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": true
+    },
+    {
         "_id": "t103",
         "name": "Tedd",
         "price": 50,
@@ -56,30 +45,6 @@
             "Animal"
         ],
         "createdAt": 1695215515430,
-        "inStock": true
-    },
-    {
-        "_id": "t102",
-        "name": "Barbie",
-        "price": 200,
-        "labels": [
-            "Doll",
-            "Beauty",
-            "Girls"
-        ],
-        "createdAt": 1695215515424,
-        "inStock": true
-    },
-    {
-        "_id": "t101",
-        "name": "יארי",
-        "price": 4444,
-        "labels": [
-            "Doll",
-            "Battery Power",
-            "Talking"
-        ],
-        "createdAt": 1631031801011,
         "inStock": true
     }
 ]
