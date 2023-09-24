@@ -1,20 +1,8 @@
 [
     {
-        "_id": "t101",
-        "name": "Talking Doll",
-        "price": 123,
-        "labels": [
-            "Doll",
-            "Battery Power",
-            "Talking"
-        ],
-        "createdAt": 1631031801011,
-        "inStock": true
-    },
-    {
         "_id": "t102",
         "name": "Barbie",
-        "price": 200,
+        "price": 2000,
         "labels": [
             "Doll",
             "Beauty",
