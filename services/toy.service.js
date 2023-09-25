@@ -73,7 +73,7 @@ function save(toy) {
         console.log('toy', toy)
         toy._id = utilService.makeId()
         toy.createdAt = Date.now()
-        toy.lable = [labels[labelIdx]]
+        toy.labels = [labels[labelIdx]]
         toy.inStock = true
         console.log('toy ready', toy)
         toys.push(toy)

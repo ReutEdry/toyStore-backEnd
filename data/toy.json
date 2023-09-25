@@ -46,5 +46,15 @@
         ],
         "createdAt": 1695215515490,
         "inStock": true
+    },
+    {
+        "name": "hb",
+        "price": 57,
+        "_id": "LV8aD",
+        "createdAt": 1695673735958,
+        "labels": [
+            "Girls"
+        ],
+        "inStock": true
     }
 ]
