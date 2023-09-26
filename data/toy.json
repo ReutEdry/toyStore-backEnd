@@ -9,7 +9,8 @@
             "Girls"
         ],
         "createdAt": 1695215515424,
-        "inStock": true
+        "inStock": true,
+        "img": "https://shop.mattel.com/cdn/shop/products/by0jpd3qnalsfdzb8cbh_3bed8fa0-5a83-4522-8bbb-9834630c71e2.jpg?v=1686266796"
     },
     {
         "_id": "t103",
@@ -21,7 +22,8 @@
             "Animal"
         ],
         "createdAt": 1695215515430,
-        "inStock": true
+        "inStock": true,
+        "img": "https://nationaltoday.com/wp-content/uploads/2021/08/Teddy-Bear-Day-1200x834.jpg"
     },
     {
         "_id": "t104",
@@ -33,7 +35,8 @@
             "Girls"
         ],
         "createdAt": 1695215515444,
-        "inStock": true
+        "inStock": true,
+        "img": "https://pbs.twimg.com/media/FSBQfIQVkAEojxk?format=jpg&name=large"
     },
     {
         "_id": "t105",
@@ -45,16 +48,29 @@
             "Ride"
         ],
         "createdAt": 1695215515490,
-        "inStock": true
+        "inStock": true,
+        "img": "https://i5.walmartimages.ca/images/Enlarge/309/730/6000204309730.jpg"
     },
     {
-        "name": "hb",
-        "price": 57,
-        "_id": "LV8aD",
-        "createdAt": 1695673735958,
+        "name": "Duck",
+        "price": 45,
+        "_id": "PClri",
+        "createdAt": 1695746635170,
         "labels": [
-            "Girls"
+            "Trip"
         ],
-        "inStock": true
+        "inStock": true,
+        "img": "https://online.thermospas.com/v/vspfiles/photos/SA1009-2T.jpg"
+    },
+    {
+        "name": "Lego",
+        "price": 100,
+        "_id": "x4wiY",
+        "createdAt": 1695765847165,
+        "labels": [
+            "Battery Powered"
+        ],
+        "inStock": true,
+        "img": "https://images.unsplash.com/photo-1633469924738-52101af51d87?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
     }
 ]

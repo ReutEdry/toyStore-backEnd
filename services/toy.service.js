@@ -4,6 +4,7 @@ import { utilService } from './util.service.js'
 
 const toys = utilService.readJsonFile('data/toy.json')
 const labels = ['Doll', 'Battery Powered', 'Talking', 'Beauty', 'Girls', 'Animal', 'Trip', 'Sport', 'Ride']
+const urls = ['https://shop.mattel.com/cdn/shop/products/bo8pb5ljodhxnar2q3up_f7c7b217-012a-4f27-abe2-8526040bd352.jpg?v=1687179676', 'https://images.unsplash.com/photo-1633469924738-52101af51d87?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80', 'https://image.smythstoys.com/original/desktop/216934.jpg']
 
 export const toyService = {
     query,
@@ -70,11 +71,12 @@ function save(toy) {
         toyToUpdate.price = toy.price
     } else {
         let labelIdx = utilService.getRandomIntInclusive(0, labels.length)
-        console.log('toy', toy)
+        let imgIdx = utilService.getRandomIntInclusive(0, urls.length)
         toy._id = utilService.makeId()
         toy.createdAt = Date.now()
         toy.labels = [labels[labelIdx]]
         toy.inStock = true
+        toy.img = urls[imgIdx]
         console.log('toy ready', toy)
         toys.push(toy)
     }
