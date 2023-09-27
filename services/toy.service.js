@@ -28,7 +28,6 @@ function onSetFilter(filterBy, toysToShow) {
     if (byLable && byLable[0]) {
         toysToShow = toysToShow.filter(toy => toy.labels.some(label => byLable.includes(label)))
     }
-    console.log('byLable', filterBy)
     if (byName) {
         const regExp = new RegExp(byName, 'i')
         toysToShow = toysToShow.filter(toy => regExp.test(toy.name))
