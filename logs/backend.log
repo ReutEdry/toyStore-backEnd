@@ -1,209 +1,271 @@
-19.9.2023, 17:37:25 - INFO - Server listening on port http://127.0.0.1:3030/
-19.9.2023, 19:55:42 - INFO - Server listening on port http://127.0.0.1:3030/
-19.9.2023, 19:58:55 - INFO - Server listening on port http://127.0.0.1:3030/
-19.9.2023, 20:02:42 - INFO - Server listening on port http://127.0.0.1:3030/
-19.9.2023, 20:02:44 - INFO - Server listening on port http://127.0.0.1:3030/
-19.9.2023, 20:03:16 - INFO - Server listening on port http://127.0.0.1:3030/
-19.9.2023, 20:03:34 - INFO - Server listening on port http://127.0.0.1:3030/
-19.9.2023, 20:04:02 - INFO - Server listening on port http://127.0.0.1:3030/
-19.9.2023, 20:04:30 - INFO - Server listening on port http://127.0.0.1:3030/
-19.9.2023, 20:04:54 - INFO - Server listening on port http://127.0.0.1:3030/
-19.9.2023, 20:05:02 - INFO - Server listening on port http://127.0.0.1:3030/
-19.9.2023, 20:05:22 - INFO - Server listening on port http://127.0.0.1:3030/
-19.9.2023, 20:05:23 - INFO - Server listening on port http://127.0.0.1:3030/
-19.9.2023, 20:05:40 - INFO - Server listening on port http://127.0.0.1:3030/
-19.9.2023, 20:05:44 - INFO - Server listening on port http://127.0.0.1:3030/
-19.9.2023, 20:09:08 - INFO - Server listening on port http://127.0.0.1:3030/
-19.9.2023, 20:09:42 - INFO - Server listening on port http://127.0.0.1:3030/
-19.9.2023, 20:10:25 - INFO - Server listening on port http://127.0.0.1:3030/
-19.9.2023, 20:10:32 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 10:19:54 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 10:21:03 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 10:21:11 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 10:21:56 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 10:22:50 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 11:05:51 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 11:34:30 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 11:39:34 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 11:39:38 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 11:40:48 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 11:42:19 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 11:42:55 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 11:43:15 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 11:46:23 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 11:47:36 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 11:47:39 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 11:47:40 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 11:48:16 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 11:52:23 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 12:04:17 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 12:05:03 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 12:06:05 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 12:08:34 - ERROR - Cannot delete car | Not your car
-20.9.2023, 12:09:05 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 12:09:05 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 12:11:56 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 12:12:03 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 12:13:53 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 12:17:19 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 12:19:56 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 12:21:22 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 12:56:50 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 12:56:58 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 12:58:05 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 23:46:04 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 23:46:46 - INFO - Server listening on port http://127.0.0.1:3030/
-20.9.2023, 23:47:13 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:04:20 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:04:37 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:07:53 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:07:59 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:08:54 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:09:46 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:10:06 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:10:12 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:12:15 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:12:40 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:29:33 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:37:45 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:38:55 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:39:01 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:39:06 - ERROR - Cannot delete toy | No Such toy
-21.9.2023, 0:40:35 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:40:59 - ERROR - Cannot delete toy | No Such toy
-21.9.2023, 0:41:15 - ERROR - Cannot delete toy | No Such toy
-21.9.2023, 0:41:48 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:41:52 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:41:56 - ERROR - Cannot delete toy | No Such toy
-21.9.2023, 0:43:26 - ERROR - Cannot delete toy | No Such toy
-21.9.2023, 0:44:02 - ERROR - Cannot delete toy | No Such toy
-21.9.2023, 0:44:33 - ERROR - Cannot delete toy | No Such toy
-21.9.2023, 0:45:35 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:45:43 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:45:45 - ERROR - Cannot delete toy | No Such toy
-21.9.2023, 0:46:02 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:46:10 - ERROR - Cannot delete toy | No Such toy
-21.9.2023, 0:47:48 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:48:25 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:48:32 - ERROR - Cannot delete toy | No Such toy
-21.9.2023, 0:48:54 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:52:35 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:52:48 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:53:05 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:53:49 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:54:17 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:55:20 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:55:39 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:58:36 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 0:59:01 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:07:33 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:08:01 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:09:38 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:11:56 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:13:52 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:14:48 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:15:04 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:18:05 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:18:11 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:21:14 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:21:32 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:22:44 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:22:58 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:23:56 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:24:31 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:25:06 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:25:28 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:25:47 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:25:58 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:26:44 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:27:09 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:29:52 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:39:26 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:39:45 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:40:06 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:41:07 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:41:48 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:44:37 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 1:53:31 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 8:43:58 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 8:56:40 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 8:59:52 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 9:08:07 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 9:08:11 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 9:09:11 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 9:10:36 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 9:45:57 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 9:46:27 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 12:56:05 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 13:01:10 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 13:03:25 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 14:55:00 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 14:56:26 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 15:05:36 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 15:05:39 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 15:07:02 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 15:09:18 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 16:09:09 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 16:09:16 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 16:09:31 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 16:36:45 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 19:02:40 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 20:50:12 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 20:50:55 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 21:33:29 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 21:45:49 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 21:47:16 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 21:50:22 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 22:59:30 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 23:01:11 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 23:02:01 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 23:04:35 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 23:06:09 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 23:06:50 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 23:18:51 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 23:20:31 - INFO - Server listening on port http://127.0.0.1:3030/
-21.9.2023, 23:30:55 - INFO - Server listening on port http://127.0.0.1:3030/
-22.9.2023, 0:28:02 - INFO - Server listening on port http://127.0.0.1:3030/
-22.9.2023, 1:54:43 - INFO - Server listening on port http://127.0.0.1:3030/
-22.9.2023, 1:54:58 - INFO - Server listening on port http://127.0.0.1:3030/
-22.9.2023, 2:20:45 - INFO - Server listening on port http://127.0.0.1:3030/
-22.9.2023, 16:15:23 - INFO - Server listening on port http://127.0.0.1:3030/
-23.9.2023, 21:26:41 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2023, 10:37:49 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2023, 11:18:25 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2023, 11:19:13 - INFO - Server listening on port http://127.0.0.1:3030/
-24.9.2023, 16:07:37 - INFO - Server listening on port http://127.0.0.1:3030/
-25.9.2023, 21:13:58 - INFO - Server listening on port http://127.0.0.1:3030/
-25.9.2023, 23:03:59 - INFO - Server listening on port http://127.0.0.1:3030/
-25.9.2023, 23:04:04 - INFO - Server listening on port http://127.0.0.1:3030/
-25.9.2023, 23:46:35 - INFO - Server listening on port http://127.0.0.1:3030/
-25.9.2023, 23:50:33 - INFO - Server listening on port http://127.0.0.1:3030/
-25.9.2023, 23:50:46 - INFO - Server listening on port http://127.0.0.1:3030/
-26.9.2023, 18:26:55 - INFO - Server listening on port http://127.0.0.1:3030/
-26.9.2023, 22:13:17 - INFO - Server listening on port http://127.0.0.1:3030/
-26.9.2023, 22:13:31 - INFO - Server listening on port http://127.0.0.1:3030/
-26.9.2023, 22:14:43 - INFO - Server listening on port http://127.0.0.1:3030/
-26.9.2023, 22:15:07 - INFO - Server listening on port http://127.0.0.1:3030/
-26.9.2023, 22:39:51 - INFO - Server listening on port http://127.0.0.1:3030/
-26.9.2023, 22:47:02 - INFO - Server listening on port http://127.0.0.1:3030/
-26.9.2023, 22:47:24 - INFO - Server listening on port http://127.0.0.1:3030/
-26.9.2023, 22:47:58 - INFO - Server listening on port http://127.0.0.1:3030/
-26.9.2023, 22:50:10 - INFO - Server listening on port http://127.0.0.1:3030/
-26.9.2023, 22:51:42 - INFO - Server listening on port http://127.0.0.1:3030/
-26.9.2023, 22:52:28 - INFO - Server listening on port http://127.0.0.1:3030/
-26.9.2023, 22:53:28 - INFO - Server listening on port http://127.0.0.1:3030/
-27.9.2023, 0:58:17 - INFO - Server listening on port http://127.0.0.1:3030/
-27.9.2023, 1:00:28 - INFO - Server listening on port http://127.0.0.1:3030/
-27.9.2023, 1:02:33 - INFO - Server listening on port http://127.0.0.1:3030/
-27.9.2023, 1:05:28 - INFO - Server listening on port http://127.0.0.1:3030/
-27.9.2023, 1:05:59 - INFO - Server listening on port http://127.0.0.1:3030/
-27.9.2023, 1:08:12 - INFO - Server listening on port http://127.0.0.1:3030/
-27.9.2023, 1:09:52 - INFO - Server listening on port http://127.0.0.1:3030/
-27.9.2023, 1:14:47 - INFO - Server listening on port http://127.0.0.1:3030/
-27.9.2023, 1:57:53 - INFO - Server listening on port http://127.0.0.1:3030/
-27.9.2023, 2:05:01 - INFO - Server listening on port http://127.0.0.1:3030/
-27.9.2023, 2:06:34 - INFO - Server listening on port http://127.0.0.1:3030/
-27.9.2023, 18:38:13 - INFO - Server listening on port http://127.0.0.1:3030/
-27.9.2023, 23:54:05 - INFO - Server listening on port http://127.0.0.1:3030/
-28.9.2023, 0:23:34 - INFO - Server listening on port http://127.0.0.1:3030/
-28.9.2023, 0:24:02 - INFO - Server listening on port http://127.0.0.1:3030/
+27.9.2023, 13:27:56 - INFO - server.js loaded... 
+27.9.2023, 13:27:56 - INFO - Server is running on port: 3030 
+27.9.2023, 13:28:23 - INFO - Req was made | / 
+27.9.2023, 13:28:23 - DEBUG - Getting Cars | {"txt":""} 
+27.9.2023, 15:57:23 - INFO - server.js loaded... 
+27.9.2023, 15:57:23 - INFO - Server is running on port: 3030 
+27.9.2023, 15:59:09 - INFO - server.js loaded... 
+27.9.2023, 15:59:09 - INFO - Server is running on port: 3030 
+27.9.2023, 15:59:42 - INFO - server.js loaded... 
+27.9.2023, 15:59:42 - INFO - Server is running on port: 3030 
+27.9.2023, 16:00:15 - INFO - server.js loaded... 
+27.9.2023, 16:00:15 - INFO - Server is running on port: 3030 
+27.9.2023, 16:00:47 - INFO - server.js loaded... 
+27.9.2023, 16:00:47 - INFO - Server is running on port: 3030 
+27.9.2023, 16:06:18 - INFO - server.js loaded... 
+27.9.2023, 16:06:18 - INFO - Server is running on port: 3030 
+27.9.2023, 16:06:21 - INFO - server.js loaded... 
+27.9.2023, 16:06:21 - INFO - Server is running on port: 3030 
+27.9.2023, 16:16:24 - INFO - server.js loaded... 
+27.9.2023, 16:16:24 - INFO - Server is running on port: 3030 
+27.9.2023, 16:17:08 - INFO - server.js loaded... 
+27.9.2023, 16:17:08 - INFO - Server is running on port: 3030 
+27.9.2023, 16:17:27 - INFO - server.js loaded... 
+27.9.2023, 16:17:27 - INFO - Server is running on port: 3030 
+27.9.2023, 17:31:40 - INFO - server.js loaded... 
+27.9.2023, 17:31:40 - INFO - Server is running on port: 3030 
+27.9.2023, 17:31:51 - INFO - Req was made | / 
+27.9.2023, 17:31:51 - DEBUG - Getting Cars | {"txt":""} 
+27.9.2023, 17:32:14 - INFO - Req was made | / 
+27.9.2023, 17:32:14 - DEBUG - Getting Cars | {"txt":""} 
+27.9.2023, 17:32:23 - DEBUG - auth.service - login with username: puk 
+27.9.2023, 17:32:23 - INFO - User login:  | {"_id":"646a02c55097065c5e3e9387","username":"puk","fullname":"puk","score":494} 
+27.9.2023, 17:32:27 - INFO - Req was made | / 
+27.9.2023, 17:32:27 - DEBUG - Getting Cars | {"txt":""} 
+27.9.2023, 17:32:46 - INFO - Req was made | / 
+27.9.2023, 17:32:46 - DEBUG - Getting Cars | {"txt":""} 
+28.9.2023, 11:43:20 - INFO - server.js loaded... 
+28.9.2023, 11:43:20 - INFO - Server is running on port: 3030 
+28.9.2023, 11:53:10 - INFO - Req was made | / 
+28.9.2023, 11:53:10 - DEBUG - Getting Cars | {"txt":""} 
+28.9.2023, 12:25:04 - INFO - server.js loaded... 
+28.9.2023, 12:25:04 - INFO - Server is running on port: 3030 
+28.9.2023, 12:30:15 - INFO - server.js loaded... 
+28.9.2023, 12:30:15 - INFO - Server is running on port: 3030 
+28.9.2023, 12:39:06 - INFO - Req was made | / 
+28.9.2023, 12:39:06 - DEBUG - Getting Cars | {"txt":""} 
+28.9.2023, 12:54:41 - INFO - Req was made | / 
+28.9.2023, 12:54:41 - DEBUG - Getting Cars | {"txt":""} 
+28.9.2023, 22:12:27 - INFO - server.js loaded... 
+28.9.2023, 22:12:27 - INFO - Server is running on port: 3030 
+28.9.2023, 22:19:55 - INFO - server.js loaded... 
+28.9.2023, 22:19:55 - INFO - Server is running on port: 3030 
+28.9.2023, 22:27:31 - INFO - server.js loaded... 
+28.9.2023, 22:27:31 - INFO - Server is running on port: 3030 
+28.9.2023, 22:27:43 - INFO - server.js loaded... 
+28.9.2023, 22:27:43 - INFO - Server is running on port: 3030 
+28.9.2023, 22:30:50 - INFO - server.js loaded... 
+28.9.2023, 22:30:50 - INFO - Server is running on port: 3030 
+28.9.2023, 22:32:15 - INFO - server.js loaded... 
+28.9.2023, 22:32:15 - INFO - Server is running on port: 3030 
+28.9.2023, 22:36:20 - INFO - server.js loaded... 
+28.9.2023, 22:36:21 - INFO - Server is running on port: 3030 
+28.9.2023, 22:38:50 - INFO - server.js loaded... 
+28.9.2023, 22:38:50 - INFO - Server is running on port: 3030 
+28.9.2023, 22:38:59 - INFO - server.js loaded... 
+28.9.2023, 22:38:59 - INFO - Server is running on port: 3030 
+28.9.2023, 22:39:52 - INFO - Server is running on port: 3030 
+28.9.2023, 22:39:52 - INFO - server.js loaded... 
+28.9.2023, 22:41:42 - INFO - server.js loaded... 
+28.9.2023, 22:41:42 - INFO - Server is running on port: 3030 
+28.9.2023, 22:42:50 - INFO - server.js loaded... 
+28.9.2023, 22:42:50 - INFO - Server is running on port: 3030 
+28.9.2023, 22:43:21 - INFO - server.js loaded... 
+28.9.2023, 22:43:22 - INFO - Server is running on port: 3030 
+28.9.2023, 22:45:20 - INFO - server.js loaded... 
+28.9.2023, 22:45:20 - INFO - Server is running on port: 3030 
+28.9.2023, 22:45:38 - INFO - server.js loaded... 
+28.9.2023, 22:45:38 - INFO - Server is running on port: 3030 
+28.9.2023, 22:46:16 - INFO - server.js loaded... 
+28.9.2023, 22:46:16 - INFO - Server is running on port: 3030 
+28.9.2023, 22:46:37 - INFO - server.js loaded... 
+28.9.2023, 22:46:37 - INFO - Server is running on port: 3030 
+28.9.2023, 22:46:45 - INFO - server.js loaded... 
+28.9.2023, 22:46:45 - INFO - Server is running on port: 3030 
+28.9.2023, 22:47:12 - INFO - server.js loaded... 
+28.9.2023, 22:47:12 - INFO - Server is running on port: 3030 
+28.9.2023, 22:47:16 - DEBUG - Getting toys | {} 
+28.9.2023, 22:48:58 - INFO - Server is running on port: 3030 
+28.9.2023, 22:48:58 - INFO - server.js loaded... 
+28.9.2023, 23:06:41 - INFO - server.js loaded... 
+28.9.2023, 23:06:42 - INFO - Server is running on port: 3030 
+28.9.2023, 23:07:42 - INFO - server.js loaded... 
+28.9.2023, 23:07:42 - INFO - Server is running on port: 3030 
+28.9.2023, 23:08:22 - INFO - server.js loaded... 
+28.9.2023, 23:08:22 - INFO - Server is running on port: 3030 
+28.9.2023, 23:22:40 - INFO - server.js loaded... 
+28.9.2023, 23:22:40 - INFO - Server is running on port: 3030 
+28.9.2023, 23:28:11 - ERROR - while finding toy frgthyu8754456ytr5678i | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+28.9.2023, 23:32:09 - ERROR - while finding toy xdfr5678ikjunyht567uj | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+29.9.2023, 0:06:34 - INFO - Server is running on port: 3030 
+29.9.2023, 0:06:34 - INFO - server.js loaded... 
+29.9.2023, 0:06:52 - INFO - server.js loaded... 
+29.9.2023, 0:06:52 - INFO - Server is running on port: 3030 
+29.9.2023, 0:39:46 - INFO - server.js loaded... 
+29.9.2023, 0:39:46 - INFO - Server is running on port: 3030 
+29.9.2023, 0:41:59 - INFO - server.js loaded... 
+29.9.2023, 0:41:59 - INFO - Server is running on port: 3030 
+29.9.2023, 1:04:21 - INFO - server.js loaded... 
+29.9.2023, 1:04:21 - INFO - Server is running on port: 3030 
+29.9.2023, 1:04:23 - INFO - server.js loaded... 
+29.9.2023, 1:04:23 - INFO - Server is running on port: 3030 
+29.9.2023, 1:05:14 - INFO - server.js loaded... 
+29.9.2023, 1:05:14 - INFO - Server is running on port: 3030 
+29.9.2023, 1:06:14 - INFO - server.js loaded... 
+29.9.2023, 1:06:14 - INFO - Server is running on port: 3030 
+29.9.2023, 1:09:47 - INFO - Server is running on port: 3030 
+29.9.2023, 1:09:47 - INFO - server.js loaded... 
+29.9.2023, 1:10:20 - INFO - server.js loaded... 
+29.9.2023, 1:10:20 - INFO - Server is running on port: 3030 
+29.9.2023, 1:15:54 - INFO - server.js loaded... 
+29.9.2023, 1:15:54 - INFO - Server is running on port: 3030 
+29.9.2023, 1:16:55 - INFO - server.js loaded... 
+29.9.2023, 1:16:55 - INFO - Server is running on port: 3030 
+29.9.2023, 1:17:52 - INFO - server.js loaded... 
+29.9.2023, 1:17:52 - INFO - Server is running on port: 3030 
+29.9.2023, 1:21:09 - INFO - server.js loaded... 
+29.9.2023, 1:21:09 - INFO - Server is running on port: 3030 
+29.9.2023, 1:39:56 - INFO - server.js loaded... 
+29.9.2023, 1:39:56 - INFO - Server is running on port: 3030 
+29.9.2023, 1:41:04 - INFO - server.js loaded... 
+29.9.2023, 1:41:04 - INFO - Server is running on port: 3030 
+29.9.2023, 1:43:35 - INFO - server.js loaded... 
+29.9.2023, 1:43:36 - INFO - Server is running on port: 3030 
+29.9.2023, 1:43:50 - INFO - server.js loaded... 
+29.9.2023, 1:43:50 - INFO - Server is running on port: 3030 
+29.9.2023, 1:45:44 - INFO - server.js loaded... 
+29.9.2023, 1:45:45 - INFO - Server is running on port: 3030 
+29.9.2023, 1:52:02 - INFO - server.js loaded... 
+29.9.2023, 1:52:02 - INFO - Server is running on port: 3030 
+29.9.2023, 1:53:41 - INFO - server.js loaded... 
+29.9.2023, 1:53:42 - INFO - Server is running on port: 3030 
+29.9.2023, 1:56:49 - INFO - server.js loaded... 
+29.9.2023, 1:56:49 - INFO - Server is running on port: 3030 
+29.9.2023, 2:05:13 - INFO - server.js loaded... 
+29.9.2023, 2:05:13 - INFO - Server is running on port: 3030 
+29.9.2023, 2:07:14 - INFO - server.js loaded... 
+29.9.2023, 2:07:14 - INFO - Server is running on port: 3030 
+29.9.2023, 2:27:56 - INFO - Server is running on port: 3030 
+29.9.2023, 2:27:56 - INFO - server.js loaded... 
+29.9.2023, 2:28:06 - DEBUG - Getting toys | {} 
+29.9.2023, 2:29:29 - INFO - server.js loaded... 
+29.9.2023, 2:29:29 - INFO - Server is running on port: 3030 
+29.9.2023, 2:29:44 - INFO - server.js loaded... 
+29.9.2023, 2:29:44 - INFO - Server is running on port: 3030 
+29.9.2023, 2:52:44 - INFO - server.js loaded... 
+29.9.2023, 2:52:44 - INFO - Server is running on port: 3030 
+29.9.2023, 3:09:24 - INFO - server.js loaded... 
+29.9.2023, 3:09:24 - INFO - Server is running on port: 3030 
+29.9.2023, 3:19:18 - INFO - server.js loaded... 
+29.9.2023, 3:19:18 - INFO - Server is running on port: 3030 
+29.9.2023, 3:22:17 - INFO - server.js loaded... 
+29.9.2023, 3:22:17 - INFO - Server is running on port: 3030 
+29.9.2023, 3:23:06 - INFO - server.js loaded... 
+29.9.2023, 3:23:06 - INFO - Server is running on port: 3030 
+29.9.2023, 3:26:39 - INFO - server.js loaded... 
+29.9.2023, 3:26:39 - INFO - Server is running on port: 3030 
+29.9.2023, 3:33:06 - INFO - server.js loaded... 
+29.9.2023, 3:33:07 - INFO - Server is running on port: 3030 
+29.9.2023, 3:40:53 - INFO - server.js loaded... 
+29.9.2023, 3:40:53 - INFO - Server is running on port: 3030 
+29.9.2023, 3:41:53 - INFO - server.js loaded... 
+29.9.2023, 3:41:53 - INFO - Server is running on port: 3030 
+29.9.2023, 3:41:59 - INFO - server.js loaded... 
+29.9.2023, 3:41:59 - INFO - Server is running on port: 3030 
+29.9.2023, 3:42:44 - INFO - server.js loaded... 
+29.9.2023, 3:42:44 - INFO - Server is running on port: 3030 
+29.9.2023, 3:49:36 - INFO - server.js loaded... 
+29.9.2023, 3:49:36 - INFO - Server is running on port: 3030 
+29.9.2023, 3:55:09 - INFO - server.js loaded... 
+29.9.2023, 3:55:09 - INFO - Server is running on port: 3030 
+29.9.2023, 4:06:16 - INFO - server.js loaded... 
+29.9.2023, 4:06:16 - INFO - Server is running on port: 3030 
+29.9.2023, 4:07:06 - INFO - server.js loaded... 
+29.9.2023, 4:07:06 - INFO - Server is running on port: 3030 
+29.9.2023, 4:27:07 - INFO - server.js loaded... 
+29.9.2023, 4:27:07 - INFO - Server is running on port: 3030 
+29.9.2023, 4:35:12 - INFO - server.js loaded... 
+29.9.2023, 4:35:12 - INFO - Server is running on port: 3030 
+29.9.2023, 16:01:48 - INFO - Server is running on port: 3030 
+29.9.2023, 16:01:47 - INFO - server.js loaded... 
+29.9.2023, 16:02:36 - INFO - server.js loaded... 
+29.9.2023, 16:02:36 - INFO - Server is running on port: 3030 
+29.9.2023, 16:05:41 - INFO - server.js loaded... 
+29.9.2023, 16:05:41 - INFO - Server is running on port: 3030 
+29.9.2023, 16:05:45 - INFO - server.js loaded... 
+29.9.2023, 16:05:45 - INFO - Server is running on port: 3030 
+29.9.2023, 16:22:22 - INFO - server.js loaded... 
+29.9.2023, 16:22:22 - INFO - Server is running on port: 3030 
+29.9.2023, 16:27:49 - INFO - server.js loaded... 
+29.9.2023, 16:27:49 - INFO - Server is running on port: 3030 
+29.9.2023, 16:28:27 - INFO - server.js loaded... 
+29.9.2023, 16:28:27 - INFO - Server is running on port: 3030 
+29.9.2023, 16:29:49 - DEBUG - auth.service - signup with username: Hadas, fullname: Hadas Zeko 
+29.9.2023, 16:29:49 - ERROR - Failed to signup Error: data must be a string or Buffer and salt must either be a salt string or a number of rounds 
+29.9.2023, 16:31:24 - INFO - server.js loaded... 
+29.9.2023, 16:31:24 - INFO - Server is running on port: 3030 
+29.9.2023, 16:31:28 - DEBUG - auth.service - signup with username: Hadas, fullname: Hadas Zeko 
+29.9.2023, 16:31:28 - DEBUG - auth.route - new account created: {"username":"Hadas","password":"$2b$10$ZlyWP.s42LTeOnm1yMR1QeQJ.rzFehBtOPbUVFCG1sMAipNLl81AK","fullname":"Hadas Zeko","score":0,"_id":"6516d1b0e54edb2094f38267"} 
+29.9.2023, 16:31:28 - DEBUG - auth.service - login with username: Hadas 
+29.9.2023, 16:32:30 - INFO - server.js loaded... 
+29.9.2023, 16:32:30 - INFO - Server is running on port: 3030 
+29.9.2023, 16:32:35 - INFO - server.js loaded... 
+29.9.2023, 16:32:35 - INFO - Server is running on port: 3030 
+29.9.2023, 16:32:41 - INFO - server.js loaded... 
+29.9.2023, 16:32:41 - INFO - Server is running on port: 3030 
+29.9.2023, 16:33:31 - INFO - server.js loaded... 
+29.9.2023, 16:33:31 - INFO - Server is running on port: 3030 
+29.9.2023, 16:36:17 - DEBUG - auth.service - signup with username: Hadas, fullname: Hadas Zeko 
+29.9.2023, 16:36:18 - DEBUG - auth.route - new account created: {"username":"Hadas","password":"$2b$10$6ZnwcZfSZhXGkvChRRHZ5.GnbT2jlFjx3Zh9WT5woVFtd/jNNUmni","fullname":"Hadas Zeko","_id":"6516d2d22e7e805174ffaa6c"} 
+29.9.2023, 16:36:18 - DEBUG - auth.service - login with username: Hadas 
+29.9.2023, 16:44:04 - INFO - server.js loaded... 
+29.9.2023, 16:44:04 - INFO - Server is running on port: 3030 
+29.9.2023, 16:48:56 - INFO - server.js loaded... 
+29.9.2023, 16:48:56 - INFO - Server is running on port: 3030 
+29.9.2023, 16:50:58 - DEBUG - auth.service - signup with username: Hadasi, fullname: Hadas Zeko 
+29.9.2023, 16:50:58 - DEBUG - auth.route - new account created: {"username":"Hadasi","password":"$2b$10$FRPVEr95kw4qbSKy0eE24ObSqYt/DmGCRTM.pf0uDzS8hF0C4eNT.","fullname":"Hadas Zeko","isAdmin":false,"_id":"6516d642d1c1d91c4057694b"} 
+29.9.2023, 16:50:58 - DEBUG - auth.service - login with username: Hadasi 
+29.9.2023, 16:53:34 - INFO - Server is running on port: 3030 
+29.9.2023, 16:53:34 - INFO - server.js loaded... 
+29.9.2023, 16:58:34 - DEBUG - auth.service - login with username: bell 
+29.9.2023, 16:58:34 - ERROR - Failed to Login Error: data and hash must be strings 
+29.9.2023, 16:59:04 - DEBUG - auth.service - login with username: bell 
+29.9.2023, 16:59:04 - ERROR - Failed to Login Error: Invalid username or password 
+29.9.2023, 16:59:49 - DEBUG - auth.service - signup with username: bell, fullname: Sahar 
+29.9.2023, 16:59:49 - ERROR - cannot insert user | Error: Username taken 
+29.9.2023, 16:59:49 - ERROR - Failed to signup Error: Username taken 
+29.9.2023, 17:00:27 - DEBUG - auth.service - signup with username: bell, fullname: Sahar 
+29.9.2023, 17:00:27 - DEBUG - auth.route - new account created: {"username":"bell","password":"$2b$10$Zf6uK44Myc3DJa3I/9uONuiu2rX2U.E3boeflwB923JxPUhwOPXBS","fullname":"Sahar","isAdmin":false,"_id":"6516d87b7c779b35188d95f0"} 
+29.9.2023, 17:00:27 - DEBUG - auth.service - login with username: bell 
+29.9.2023, 17:00:37 - DEBUG - auth.service - login with username: bell 
+29.9.2023, 17:00:38 - INFO - User login:  | {"_id":"6516d87b7c779b35188d95f0","username":"bell","fullname":"Sahar","isAdmin":false} 
+29.9.2023, 17:02:03 - DEBUG - auth.service - signup with username: nugget, fullname: maya 
+29.9.2023, 17:02:03 - ERROR - cannot insert user | Error: Username taken 
+29.9.2023, 17:02:03 - ERROR - Failed to signup Error: Username taken 
+29.9.2023, 17:02:33 - DEBUG - auth.service - signup with username: nugget, fullname: maya 
+29.9.2023, 17:02:33 - DEBUG - auth.route - new account created: {"username":"nugget","password":"$2b$10$805sKKP4gp66rSqPlpY4/O.fVmg29ysSn9DiLSz2ylSv3zj3M1CSi","fullname":"maya","isAdmin":false,"_id":"6516d8f97c779b35188d95f1"} 
+29.9.2023, 17:02:33 - DEBUG - auth.service - login with username: nugget 
+29.9.2023, 17:03:11 - DEBUG - auth.service - signup with username: chino, fullname: klil 
+29.9.2023, 17:03:11 - DEBUG - auth.route - new account created: {"username":"chino","password":"$2b$10$i8bzG10ugwL4FQl5CUsUee1vMYT6JS0i7Krc.nAbGSCTVuHq7fCDi","fullname":"klil","isAdmin":false,"_id":"6516d91f7c779b35188d95f2"} 
+29.9.2023, 17:03:11 - DEBUG - auth.service - login with username: chino 
+29.9.2023, 17:06:13 - DEBUG - auth.service - login with username: bell 
+29.9.2023, 17:06:13 - INFO - User login:  | {"_id":"6516d87b7c779b35188d95f0","username":"bell","fullname":"Sahar","isAdmin":false} 
+29.9.2023, 17:16:02 - DEBUG - auth.service - signup with username: reuti, fullname: reut 
+29.9.2023, 17:16:03 - DEBUG - auth.route - new account created: {"username":"reuti","password":"$2b$10$MpmynEeX85IfNnM91uPqy.DbCWHuICS34/gpRpmyMsvNVFRpnc2EK","fullname":"reut","isAdmin":false,"_id":"6516dc237c779b35188d95f3"} 
+29.9.2023, 17:16:03 - DEBUG - auth.service - login with username: reuti 
+29.9.2023, 17:37:51 - INFO - server.js loaded... 
+29.9.2023, 17:37:51 - INFO - Server is running on port: 3030 
+30.9.2023, 20:41:13 - INFO - Server is running on port: 3030 
+30.9.2023, 20:41:13 - INFO - server.js loaded... 
+30.9.2023, 21:01:03 - INFO - server.js loaded... 
+30.9.2023, 21:01:03 - INFO - Server is running on port: 3030 
+30.9.2023, 21:10:23 - INFO - server.js loaded... 
+30.9.2023, 21:10:23 - INFO - Server is running on port: 3030 
+30.9.2023, 21:23:04 - INFO - server.js loaded... 
+30.9.2023, 21:23:04 - INFO - Server is running on port: 3030 
+30.9.2023, 21:23:10 - INFO - server.js loaded... 
+30.9.2023, 21:23:10 - INFO - Server is running on port: 3030 
+30.9.2023, 21:23:14 - INFO - server.js loaded... 
+30.9.2023, 21:23:14 - INFO - Server is running on port: 3030 
+30.9.2023, 21:23:28 - INFO - server.js loaded... 
+30.9.2023, 21:23:28 - INFO - Server is running on port: 3030 
